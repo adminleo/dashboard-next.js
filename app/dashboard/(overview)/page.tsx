@@ -28,7 +28,6 @@ export default async function Page() {
           <CardWrapper />
         </Suspense>
       </div>
-      // ...
     </main>
   );
 }
